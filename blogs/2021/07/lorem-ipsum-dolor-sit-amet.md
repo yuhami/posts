@@ -3,6 +3,7 @@ sequence: 01
 title : lorem ipsum dolor sit amet
 author : yuhami
 published : 30 July 2021
+slug : lorem-ipsum-dolor-sit-amet
 ---
 
 # lorem ipsum dolor
